@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kobuqa, ReactJS Frontend Developer.
+- 👋 Hi, I’m @kobuqa, React/Svelte/Whatever Web Developer.
 - 👀 I’m interested in extending knowledge horizonts :)
 - 🌱 I’m currently learning NodeJS/NestJS
 - 💞️ I’m looking to collaborate on any interesting ideas/projects/tasks.
