@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kobuqa, React/Svelte/Whatever Web Developer.
+- 👋 Hi, I’m @kobuqa, React/Next/Svelte/Whatever Web Developer.
 - 👀 I’m interested in extending knowledge horizonts :)
-- 🌱 I’m currently learning NodeJS/NestJS
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on any interesting ideas/projects/tasks.
 - ✨ I'm not looking for a job.
 - 📫 How to reach me https://t.me/kobuqa
