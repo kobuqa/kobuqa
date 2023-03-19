@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kobuqa, Web Developer.
 - 👀 I’m interested in extending knowledge horizonts :)
-- 🌱 I’m currently learning patterns & architecture design.
+- 🌱 I’m currently learning to write readable, elegant, clean code.
 - 💞️ I’m looking to collaborate with interesting people.
 - ✨ I'm not looking for a job.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kobuqa/)
