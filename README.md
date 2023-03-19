@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @kobuqa, React/Next/Svelte/Whatever Web Developer.
+- 👋 Hi, I’m @kobuqa, Web Developer.
 - 👀 I’m interested in extending knowledge horizonts :)
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on any interesting ideas/projects/tasks.
+- 🌱 I’m currently learning patterns & architecture design.
+- 💞️ I’m looking to collaborate with interesting people.
 - ✨ I'm not looking for a job.
-- 📫 How to reach me https://t.me/kobuqa
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kobuqa/)
 
 <!---
 kobuqa/kobuqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
